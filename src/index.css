@@ -58,3 +58,8 @@ html, body, #root {
 	font-family: Menlo, Monaco, monospace;
 	background-color: #282c34;
 }
+
+/** GETS RID OF ERROR OVERLAY */
+iframe {
+    display: none;
+}
