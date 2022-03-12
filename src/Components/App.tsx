@@ -1,5 +1,7 @@
 import React from 'react'
 import { StyledApp } from 'Styles/StyledApp'
+import Gameboard from './Gameboard'
+import Keyboard from './Keyboard'
 
 export const App = () => {
   const language = 'Coptic'

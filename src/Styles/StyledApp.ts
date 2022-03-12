@@ -7,6 +7,7 @@ export const StyledApp = styled.div`
   align-items: center;
   color: white;
   padding: 1rem 4rem;
+  pointer-events: none;
 
   .title {
     font-weight: 700;
